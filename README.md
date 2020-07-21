@@ -1,2 +1,2 @@
-# Githubbeginning
+# LearningGitHub
 First Try
